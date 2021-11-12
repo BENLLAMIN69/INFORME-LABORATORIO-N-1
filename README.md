@@ -113,13 +113,14 @@ CALCULOS
 ![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)
 ![3](https://user-images.githubusercontent.com/93899422/141487933-7fd04759-8f8a-4693-b2be-ccfb9ab03ef3.png)
 
-1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
-
-Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
 
 Tabla 1.3. Verificación de la LVK
 
 ![WhatsApp Image 2021-11-12 at 09 39 45](https://user-images.githubusercontent.com/93899422/141489042-e38434ee-9230-4d47-8195-b58fa1c4ad5f.jpeg)
+
+1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados.
 
 VIDEO
 

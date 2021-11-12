@@ -4,9 +4,11 @@ Objetivo General
 
 Objetivo Específico
 
-*A
-*B
-*C
+*ABN
+
+*BJBJ
+
+*CJBJKB
 
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 

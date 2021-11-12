@@ -4,10 +4,12 @@ OBJETIVOS
 Objetivo General
 
 Explicar la teoría de las Leyes de Kirchhoff, mediante una investigación académica y la utilización del laboratorio virtual de Tinkercad, que permita 
-relacionar la parte teórica con la experimentación practica.
+relacionar la parte teórica con la experimentación práctica.
 
 
-Objetivo Específico
+Objetivos Específicos
+
+Emplear los conocimientos adquiridos en las sesiones de clase, con el proposito de comparar los valores calculados con los valores medidos.
 
 MARCO TEÓRICO
 

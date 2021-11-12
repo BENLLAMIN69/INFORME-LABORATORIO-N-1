@@ -3,14 +3,17 @@
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 
 1.1. OBJETIVO DE LA PRÁCTICA
+
 Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
 Kirchhoff de Corrientes.
 
 1.2. REQUISITOS PREVIOS.
+
 Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados
 obtenidos en las tablas 1.1, 1.2. y 1.3.
 
 1.3. INFORMACIÓN GENERAL
+
 Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctricos son
 las Leyes de Kirchhoff de voltaje y corriente, ya que con ellas se puede determinar el
 valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes

@@ -88,6 +88,14 @@ CALCULOS
 
 ![4](https://user-images.githubusercontent.com/93899422/141489466-5612a4db-9ff2-4528-821f-c7369155efb0.png)
 
+CIRCUITO ELECTRICO DE VOLTAJE
+
+![WhatsApp Image 2021-11-12 at 00 19 46](https://user-images.githubusercontent.com/93899422/141490154-49a7d43b-4056-4296-8e5e-6972b9b7df1c.jpeg)
+
+CIRCUITO ELECTRICO DE AMPERAJE
+
+![WhatsApp Image 2021-11-12 at 00 19 59](https://user-images.githubusercontent.com/93899422/141490158-4d6ad2f3-2eb8-4ffd-b8eb-e44fe5603c9c.jpeg)
+
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.
@@ -113,14 +121,25 @@ CALCULOS
 ![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)
 ![3](https://user-images.githubusercontent.com/93899422/141487933-7fd04759-8f8a-4693-b2be-ccfb9ab03ef3.png)
 
+CIRCUITO ELECTRICO TRAYECTORIA N°1
+
+![WhatsApp Image 2021-11-12 at 00 22 33](https://user-images.githubusercontent.com/93899422/141490162-a0386138-db3a-4b0e-9455-4d25188ebcd0.jpeg)
+
+CIRCUITO ELECTRICO TRAYECTORIA N°2
+
+![WhatsApp Image 2021-11-12 at 00 22 45](https://user-images.githubusercontent.com/93899422/141490165-dbeaa1ef-bab3-4eb4-be6e-d4100b0f85d9.jpeg)
+
+CIRCUITO ELECTRICO TRAYECTORIA N°3
+
+![WhatsApp Image 2021-11-12 at 00 22 57](https://user-images.githubusercontent.com/93899422/141490166-9c1533e8-6f5d-4ddd-b00d-84caf585a0e9.jpeg)
+
+1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
 
 Tabla 1.3. Verificación de la LVK
 
 ![WhatsApp Image 2021-11-12 at 09 39 45](https://user-images.githubusercontent.com/93899422/141489042-e38434ee-9230-4d47-8195-b58fa1c4ad5f.jpeg)
-
-1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
-
-Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados.
 
 VIDEO
 

@@ -23,8 +23,6 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 VIDEO
 
 CONCLUSIONES
-Se puede concluir que las leyes de Kirchhoff, pueden comprobarse la teoria con la parte partica.
-Se aplicó los conocimeientos aprendidos en la unidad 1 y 2, haciendo efectiva la parte practica. 
 
 BIBLIOGRAFÍA
 Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
@@ -33,7 +31,34 @@ MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web:
 
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 
-MATERIAL Y EQUIPO REQUERIDO
+1.1. OBJETIVO DE LA PRÁCTICA
+
+Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de
+Kirchhoff de Corrientes.
+
+1.2. REQUISITOS PREVIOS.
+
+Se requiere el análisis analítico del circuito mostrado en la figura 1.1. Anote los resultados
+obtenidos en las tablas 1.1, 1.2. y 1.3.
+
+1.3. INFORMACIÓN GENERAL
+
+Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctricos son
+las Leyes de Kirchhoff de voltaje y corriente, ya que con ellas se puede determinar el
+valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes
+de Kirchhoff se enuncian a continuación:
+
+
+a) Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un
+nodo es igual a la suma de las corrientes que salen del mismo.
+
+
+b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una
+trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la
+misma.
+
+
+1.4. MATERIAL Y EQUIPO REQUERIDO
 
 
 |Cantidad| Material o Equipo|
@@ -48,10 +73,10 @@ MATERIAL Y EQUIPO REQUERIDO
 
 1.5. PROCEDIMIENTO
 
-Armar el circuito que se muestra en la figura 1.1.
+1.5.1. Arme el circuito que se muestra en la figura 1.1.
 
-Medir el voltaje y corriente en cada uno de los elementos del circuito. 
-Anotar los resultados de las mediciones en la tabla 1.1.
+1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
+resultados de las mediciones en la tabla 1.1.
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
@@ -79,12 +104,12 @@ Tabla 1.2. Verificación de la LVK.
 
 ||Calculado| Medido| Calculado |Medido| Calculado| Medido|
 |-|---------|------|-----------|-------|----------|-------|
-|VT (V)|||||
-|VR1 (V)|||||
-|VR2 (V)|||||
-|VR3 (V)|||||
-|VR4 (V)|||||
-|VR5 (V)|||||
+|VT (V)||||||||
+|VR1 (V)|1.49V|1.49V|||1.39V|1.39V|
+|VR2 (V)|5.82V|5.82V|4.69V|4.7V|||
+|VR3 (V)|2.69V|2.69V|2.65V|2.65V|3.6V|3.6V|
+|VR4 (V)|||2.65V|2.65V|3.6V|3.6V|
+|VR5 (V)|||||2.5V|2.5V|
 |∑ V|||||
 
 

@@ -145,6 +145,10 @@ VIDEO
 
 CONCLUSIONES
 
+Se aplico los conocimientos previs de la unidad 1 y 2, para asi se comprobo los valores teoricos con los valores practicos
+
+se uso material didacto ya que con ello se facilito la compresion y la realizacion de los ejercicios propuestos.
+
 BIBLIOGRAFÍA
 Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
 

@@ -117,6 +117,7 @@ Tabla 1.2. Verificación de la LVK.
 |VR4 (V)|||2.65V|2.65V|3.6V|3.6V|
 |VR5 (V)|||||2.5V|2.5V|
 |∑ V|||||
+
 Tabla 1.3. Verificación de la LVK
 
 1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.

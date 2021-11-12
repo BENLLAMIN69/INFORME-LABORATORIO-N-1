@@ -23,8 +23,6 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 VIDEO
 
 CONCLUSIONES
-Se puede concluir que las leyes de Kirchhoff, pueden comprobarse la teoria con la parte partica.
-Se aplicó los conocimeientos aprendidos en la unidad 1 y 2, haciendo efectiva la parte practica. 
 
 BIBLIOGRAFÍA
 Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
@@ -106,12 +104,12 @@ Tabla 1.2. Verificación de la LVK.
 
 ||Calculado| Medido| Calculado |Medido| Calculado| Medido|
 |-|---------|------|-----------|-------|----------|-------|
-|VT (V)|||||
-|VR1 (V)|||||
-|VR2 (V)|||||
-|VR3 (V)|||||
-|VR4 (V)|||||
-|VR5 (V)|||||
+|VT (V)||||||
+|VR1 (V)|1.49V||||1.39V|
+|VR2 (V)|5.82V||4.69V|||
+|VR3 (V)|2.69V||2.65V||3.6V|
+|VR4 (V)|||2.65V||3.6V|
+|VR5 (V)|||||2.5V|
 |∑ V|||||
 
 

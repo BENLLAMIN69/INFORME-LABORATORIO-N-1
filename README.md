@@ -1,4 +1,12 @@
 # INFORME-LABORATORIO-N-1
+OBJETIVOS
+Objetivo General
+
+Objetivo Específico
+
+*A
+*B
+*C
 
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 

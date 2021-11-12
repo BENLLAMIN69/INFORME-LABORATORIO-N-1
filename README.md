@@ -24,6 +24,7 @@ misma.
 1.4. MATERIAL Y EQUIPO REQUERIDO
 
 |Cantidad| Material o Equipo|
+|--------|------------------|
 |1 |Fuente de Voltaje de C.D.|
 |2 |Multímetros Digitales|
 |1| Resistor de 1 kΩ|

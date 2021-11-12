@@ -25,7 +25,9 @@ VIDEO
 CONCLUSIONES
 
 BIBLIOGRAFÍA
+Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
 
+MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
 
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 

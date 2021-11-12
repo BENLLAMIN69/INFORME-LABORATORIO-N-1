@@ -93,11 +93,6 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 |VR5 (V)|3.7V|3.7V|
 |IR5 (mA)|2.054|2.05mA|
 
-CALCULOS
-
-![1](https://user-images.githubusercontent.com/93899422/141487929-20797d16-aaae-460a-892a-1f421446f014.png)
-![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)
-![3](https://user-images.githubusercontent.com/93899422/141487933-7fd04759-8f8a-4693-b2be-ccfb9ab03ef3.png)
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
@@ -118,11 +113,17 @@ Tabla 1.2. Verificación de la LVK.
 |VR5 (V)|||||2.5V|2.5V|
 |∑ V|||||
 
- 
-Tabla 1.3. Verificación de la LVK
+CALCULOS
 
-![WhatsApp Image 2021-11-12 at 09 39 45](https://user-images.githubusercontent.com/93899422/141489042-e38434ee-9230-4d47-8195-b58fa1c4ad5f.jpeg)
+
+![1](https://user-images.githubusercontent.com/93899422/141487929-20797d16-aaae-460a-892a-1f421446f014.png)
+![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)
+![3](https://user-images.githubusercontent.com/93899422/141487933-7fd04759-8f8a-4693-b2be-ccfb9ab03ef3.png)
 
 1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
-Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados.
+Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
+
+Tabla 1.3. Verificación de la LVK
+
+![WhatsApp Image 2021-11-12 at 09 39 45](https://user-images.githubusercontent.com/93899422/141489042-e38434ee-9230-4d47-8195-b58fa1c4ad5f.jpeg)

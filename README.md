@@ -123,5 +123,4 @@ Tabla 1.2. Verificación de la LVK.
 Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
 
 Tabla 1.3. Verificación de la LVK
-
-
+![WhatsApp Image 2021-11-12 at 09 39 45](https://user-images.githubusercontent.com/93899422/141489042-e38434ee-9230-4d47-8195-b58fa1c4ad5f.jpeg)

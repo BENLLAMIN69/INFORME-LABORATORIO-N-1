@@ -119,7 +119,7 @@ CALCULOS
 
 ![1](https://user-images.githubusercontent.com/93899422/141487929-20797d16-aaae-460a-892a-1f421446f014.png)
 ![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)
-![3](https://user-images.githubusercontent.com/93899422/141487933-7fd04759-8f8a-4693-b2be-ccfb9ab03ef3.png)
+![3](https://user-images.githubusercontent.com/93899422/141491302-3c70be32-c09c-4b8f-af74-072e0771744a.png)
 
 CIRCUITO ELECTRICO TRAYECTORIA N°1
 

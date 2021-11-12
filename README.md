@@ -23,6 +23,8 @@ RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 VIDEO
 
 CONCLUSIONES
+Se puede concluir que las leyes de Kirchhoff, pueden comprobarse la teoria con la parte partica.
+Se aplicó los conocimeientos aprendidos en la unidad 1 y 2, haciendo efectiva la parte practica. 
 
 BIBLIOGRAFÍA
 Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm

@@ -15,13 +15,19 @@ Uno de los métodos ampliamente utilizados en el análisis de circuitos eléctri
 las Leyes de Kirchhoff de voltaje y corriente, ya que con ellas se puede determinar el
 valor de voltaje o corriente en cualquier elemento que forme parte del circuito. Las Leyes
 de Kirchhoff se enuncian a continuación:
+
+
 a) Ley de Kirchhoff de Corrientes: La suma de las corrientes que entran a un
 nodo es igual a la suma de las corrientes que salen del mismo.
+
+
 b) Ley de Kirchhoff de Voltajes: La suma de las caídas de voltaje en una
 trayectoria cerrada es igual a la suma de las elevaciones de voltaje en la
 misma.
 
+
 1.4. MATERIAL Y EQUIPO REQUERIDO
+
 
 |Cantidad| Material o Equipo|
 |--------|------------------|
@@ -37,5 +43,22 @@ misma.
 
 1.5.1. Arme el circuito que se muestra en la figura 1.1.
 
+1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
+resultados de las mediciones en la tabla 1.1.
+
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+|VARIABLE| VALOR CALCULADO| VALOR MEDIDO|
+|---------|---------------|-------------|
+|VR1 (V)|||
+|IR1 (mA)|||
+|VR2 (V)|||
+|IR2 (mA)|||
+|VR3 (V)|||
+|IR3 (mA)|||
+|VR4 (V)|||
+|IR4 (mA)|||
+|VR5 (V)|||
+|IR5 (mA)|||
 
 ![](https://github.com/BENLLAMIN69/INFORME-LABORATORIO-N-1/blob/main/Ima/png%20(1).png)

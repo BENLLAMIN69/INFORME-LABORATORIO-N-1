@@ -93,6 +93,9 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 |VR5 (V)|3.7V|3.7V|
 |IR5 (mA)|2.054|2.05mA|
 
+CALCULOS
+
+![4](https://user-images.githubusercontent.com/93899422/141489466-5612a4db-9ff2-4528-821f-c7369155efb0.png)
 
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
@@ -114,7 +117,6 @@ Tabla 1.2. Verificación de la LVK.
 |∑ V|||||
 
 CALCULOS
-
 
 ![1](https://user-images.githubusercontent.com/93899422/141487929-20797d16-aaae-460a-892a-1f421446f014.png)
 ![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)

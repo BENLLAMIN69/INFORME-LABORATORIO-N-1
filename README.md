@@ -68,7 +68,7 @@ signo negativo. Anote los resultados en la tabla 1.2.
 Tabla 1.2. Verificación de la LVK.
 
 |VOLTAJE|Trayectoria 1| Trayectoria 2| Trayectoria 3|
-|-------|-------------|--------------|--------------|
+|-------|-------|------|--------|------|--------|------|
 ||Calculado| Medido| Calculado |Medido| Calculado| Medido|
 |-|---------|------|-----------|-------|----------|-------|
 |VT (V)|||||

@@ -68,14 +68,14 @@ signo negativo. Anote los resultados en la tabla 1.2.
 Tabla 1.2. Verificación de la LVK.
 
 |VOLTAJE|Trayectoria 1| Trayectoria 2| Trayectoria 3|
-||Calculado Medido| Calculado Medido| Calculado Medido|
-|-|---------------|------------------|-----------------|
-|VT (V)||||
-|VR1 (V)||||
-|VR2 (V)||||
-|VR3 (V)||||
-|VR4 (V)||||
-|VR5 (V)||||
-|∑ V||||
+||Calculado| Medido| Calculado |Medido| Calculado| Medido|
+|-|---------|------|-----------|-------|----------|-------|
+|VT (V)|||||
+|VR1 (V)|||||
+|VR2 (V)|||||
+|VR3 (V)|||||
+|VR4 (V)|||||
+|VR5 (V)|||||
+|∑ V|||||
 
 ![](https://github.com/BENLLAMIN69/INFORME-LABORATORIO-N-1/blob/main/Ima/png%20(1).png)

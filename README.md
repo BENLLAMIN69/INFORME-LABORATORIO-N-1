@@ -3,8 +3,8 @@ OBJETIVOS
 
 Objetivo General
 
-Explicar la teoría de las Leyes de Kirchhoff mediante una investigación academica que permita 
-relacionar la parte teórica con la experimentación practica
+Explicar la teoría de las Leyes de Kirchhoff, mediante una investigación académica y la utilización de laboratorios virtuales, que permita 
+relacionar la parte teórica con la experimentación practica.
 
 
 Objetivo Específico

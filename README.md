@@ -33,4 +33,9 @@ misma.
 |1 |Resistor de 3.9 kΩ|
 |1 |Protoboard|
 
+1.5. PROCEDIMIENTO
+
+1.5.1. Arme el circuito que se muestra en la figura 1.1.
+
+
 ![](https://github.com/BENLLAMIN69/INFORME-LABORATORIO-N-1/blob/main/Ima/png%20(1).png)

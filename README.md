@@ -20,15 +20,6 @@ EXPLICACIÓN DEL PROCEDIMIENTO
 
 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-VIDEO
-
-CONCLUSIONES
-
-BIBLIOGRAFÍA
-Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
-
-MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
-
 PRÁCTICA No. 1 LEYES DE KIRCHHOFF
 
 1.1. OBJETIVO DE LA PRÁCTICA
@@ -129,3 +120,13 @@ Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decim
 Tabla 1.3. Verificación de la LVK
 
 ![WhatsApp Image 2021-11-12 at 09 39 45](https://user-images.githubusercontent.com/93899422/141489042-e38434ee-9230-4d47-8195-b58fa1c4ad5f.jpeg)
+
+VIDEO
+
+CONCLUSIONES
+
+BIBLIOGRAFÍA
+Fernández, Tomás y Tamaro, Elena. (2021, 12 de noviembre).Biografia de Gustav Kirchhoff. En Biografías y Vidas. De la página web: https://www.biografiasyvidas.com/biografia/k/kirchhoff.htm
+
+MecatrónicaLATAM.(2021, 12 de noviembre).Leyes de Kirchhoff. De la página web: https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
+

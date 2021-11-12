@@ -10,6 +10,8 @@ relacionar la parte teórica con la experimentación práctica.
 Objetivos Específicos
 
 Emplear los conocimientos adquiridos en las sesiones de clase, con el proposito de comparar los valores calculados con los valores medidos.
+Utlizar material didactico, que sirva como apoyo para facilitar la compresión de los ejercicios. 
+
 
 MARCO TEÓRICO
 

@@ -67,6 +67,8 @@ misma.
 
 1.5.1. Arme el circuito que se muestra en la figura 1.1.
 
+![5](https://user-images.githubusercontent.com/93899422/141493294-5bdf197b-045b-428d-814b-8cc6b7962b70.png)
+
 1.5.2. Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 resultados de las mediciones en la tabla 1.1.
 

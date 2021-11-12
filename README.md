@@ -93,6 +93,12 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 |VR5 (V)|3.7V|3.7V|
 |IR5 (mA)|2.054|2.05mA|
 
+CALCULOS
+
+![1](https://user-images.githubusercontent.com/93899422/141487929-20797d16-aaae-460a-892a-1f421446f014.png)
+![2](https://user-images.githubusercontent.com/93899422/141487932-40de99f9-cdd8-4580-849b-d20e2a490597.png)
+![3](https://user-images.githubusercontent.com/93899422/141487933-7fd04759-8f8a-4693-b2be-ccfb9ab03ef3.png)
+
 1.5.3. Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
 considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
 signo negativo. Anote los resultados en la tabla 1.2.
@@ -115,4 +121,7 @@ Tabla 1.2. Verificación de la LVK.
 1.5.5.	Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 Los resultados obtenidos aplicados adecuadamente con el menor desprecio de decimales devuelve al investigador una cantidad que oscila a los valores reales, estos valores serán más exactos según el método que se utilice para calcular dichos resultados. 
+
+Tabla 1.3. Verificación de la LVK
+
 

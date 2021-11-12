@@ -113,7 +113,7 @@ Tabla 1.2. Verificación de la LVK.
 |VR3 (V)|2.69V|2.69V|2.65V|2.65V|3.05V|3.06V|
 |VR4 (V)|||2.65V|2.65V|3.05V|3.06V|
 |VR5 (V)|||||2.5V|2.5V|
-|∑ V|||||
+|∑ V|10V|10V|9.99V|10V|9.99V|10.01V|
 
 CALCULOS
 
